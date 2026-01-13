@@ -37,6 +37,15 @@ We find no evidence that industrial complexes increase manufacturing establishme
 [PPY_KoreanIndustrialComplexes]: {{ site.baseurl }}{% link assets/files/PPY_KoreanIndustrialComplexes.pdf %}
 
 **The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) New draft coming soon! <br><br/>
+<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Working Paper][gp_DistributionTasksSkills_2026jan16]] </small>
+
+<div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
+Since the 1980s, the segregation of workers by skill across cities has consistently increased with high-skill workers sorting into larger cities. We show that changes in job task content can partially explain the evolution of spatial sorting by worker skill. Building on stylized facts of worker sorting, we propose a framework in which spatial sorting by worker skill arises from more productive cities having a comparative advantage in skill-intensive tasks. In equilibrium, initially more productive locations grow larger and attract more high-skill workers, and the urban wage premium is larger for both high-skilled workers and occupations with a higher share of skill-intensive tasks.
+Our framework yields two novel predictions. First, the observed skill-bias in the urban wage premium stems from a task-bias in agglomeration economies. Second, a worker's productivity in a specific city is determined by her occupation's task content and the city's comparative advantage in the production of skill-intensive tasks. %how much an occupation benefits from cities' productive advantages depends on both its task content and the strength of a city's comparative advantage in skill-intensive tasks. 
+Consequently, our model shows that the evolution of spatial sorting by skill can be explained by changes in job task content. Using administrative data from Germany, we find support for our model's predictions. The urban wage premium ranges from 1.7 to 2.5 percentage points depending on job task content. Moreover, we observe strong spatial sorting of occupations by their analytical task content. 
+</small><br><br/></div>
+
+[gp_DistributionTasksSkills_2026jan16]: {{ site.baseurl }}{% link assets/files/gp_DistributionTasksSkills_2026jan16.pdf %}
 
 # <center> Work in Progress </center>
 - - -
