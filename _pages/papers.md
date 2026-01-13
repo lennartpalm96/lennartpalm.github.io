@@ -36,7 +36,7 @@ We find no evidence that industrial complexes increase manufacturing establishme
 
 [PPY_KoreanIndustrialComplexes]: {{ site.baseurl }}{% link assets/files/PPY_KoreanIndustrialComplexes.pdf %}
 
-**The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) New draft coming soon! <br><br/>
+**The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) Submitted. <br><br/>
 <small>[ <a href="#/" onclick="visib('tasks')">Abstract</a> | [Working Paper][gp_DistributionTasksSkills_2026jan16]] </small>
 
 <div id="tasks" style="display: none; text-align: justify; line-height: 1.2" ><small>
