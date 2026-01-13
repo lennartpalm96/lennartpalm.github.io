@@ -24,10 +24,22 @@ Wage growth is stronger in larger cities, but this relationship holds exclusivel
 [TCWG]: {{ site.baseurl }}{% link assets/files/TCWG_Vrep.pdf %}
 [TCWGREP]: {{ site.baseurl }}{% link assets/files/TCWG_Vrep.pdf %}
 
+**The Local Effects of Industrial Complexes**. 2026. (with Lennart Palm and Ugur Yesilbayraktar) <br><br/>
+<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a> | [Working Paper][PPY_KoreanIndustrialComplexes]] </small>
+
+<div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We examine the local effects of South Korea’s large-scale place-based industrial policy of constructing industrial complexes in left-behind regions. We compile a novel dataset on industrial complex designations dating back to the 1960s and link it to administrative establishment surveys. Using a stacked difference-in-differences design, we estimate the causal effects of industrial complex designation on local economic outcomes.
+We find that industrial complex designation increases aggregate local employment by approximately 15 percent ten years after designation and raises manufacturing output by roughly 40 percent. Employment growth occurs not only in the subsidized manufacturing sector but also in the services and construction sectors, which are not directly targeted by the policy. 
+We find that each additional job in an industrial complex generates 1.3 to 1.9 jobs in the local economy, including itself. These additional jobs are created entirely in the services and construction sectors. In contrast, all manufacturing employment gains are attributable to activity within the industrial complexes, with nearly three quarters arising from the expansion of establishments that existed prior to the construction of the complex.
+We find no evidence that industrial complexes increase manufacturing establishments’ productivity, as measured by output or value added per worker. However, we document increases in investment, as measured by tangible assets, consistent with the policy primarily alleviating capital constraints rather than raising productivity.
+</small><br><br/></div>
+
+[PPY_KoreanIndustrialComplexes]: {{ site.baseurl }}{% link assets/files/PPY_KoreanIndustrialComplexes.pdf %}
+
+**The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) New draft coming soon! <br><br/>
+
 # <center> Work in Progress </center>
 - - -
-**Place-based Policy in Korea**. (with Lennart Palm and Ugur Yesilbayraktar) New draft coming soon! <br><br/>
-**The Spatial Distribution of Tasks and Wages**. (with Anja Grujovic) New draft coming soon! <br><br/>
 **The Political Consequences of the Spanish Flu**.
 
 [//]: This java script is the button to show abstract
