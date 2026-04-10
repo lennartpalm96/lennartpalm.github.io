@@ -11,24 +11,20 @@ redirect_from:
 
 For a longer pdf version, click [here][cv].
 
-[cv]: {{ site.baseurl }}{% link assets/files/perlcvshort_2025fall.pdf %}
+[cv]: {{ site.baseurl }}{% link assets/files/palmcvshort_2026spring.pdf %}
 
 Education
 ======
 * PhD candidate in Economics, University of Duisburg-Essen, 2026 (expected)
-* Visiting Researcher, Humboldt University Berlin, 2025
-* MA Analysis and Policy in Economics, Paris School of Economics, 2020
-* MSc Economics, University of Mannheim, 2019
-* BSc Economics (Hons) (Study Abroad), Lancaster University, 2017
-* Exchange Student, Unviersity of New South Wales, 2015-16
+* Visiting Researcher, Sogang University, 2024
+* Visiting Researcher, Dankook University, 2023, 2024
+* MSc Economics, TU Desden, 2021
+* BA Economics , Georg-August University, 2019
+* Exchange Student, Dankook University, 2021
 
 Work experience
 ======
-* Doctoral Researcher, since 2021
+* Doctoral Researcher, since 2022
   * University of Duisburg-Essen
-    
-* Pricing Specialist, 2021
-  * Sparkassen Rating und Risikosysteme GmbH
-    
-* Research Assistant, Summer 2017
-  * Health Economics Research Unit, University of Aberdeen
+* Voluntary Service, 2014-2015
+  * Georg-August University, Department of Archeology
