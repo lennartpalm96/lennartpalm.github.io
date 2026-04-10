@@ -15,7 +15,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 - - -
 
 **The Heterogeneous Effects of Highspeed-Rail Access on Establishment Performance**. (with Jaewon Jung) Work in Progress  <br><br/>
-<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a>  </small>
+<small>[ <a href="#/" onclick="visib('design-based')">Abstract</a>]  </small>
 
 <div id="design-based" style="display: none; text-align: justify; line-height: 1.2" ><small>
 The study examines the effect of the 2010 expansion of the Gyeongbu high-speed
@@ -46,7 +46,7 @@ We find no evidence that industrial complexes increase manufacturing establishme
 
 **Moving Government, Moving People? Public Sector Relocation
 as a Place-Based Policy**. Work in Progress <br><br/>
-<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a>  </small>
+<small>[ <a href="#/" onclick="visib('tasks')">Abstract</a> ] </small>
 
 <div id="tasks" style="display: none; text-align: justify; line-height: 1.2" ><small>
 Public sector relocations are a popular tool for regional balanced growth, given their low cost and expected impact on private sector growth.
